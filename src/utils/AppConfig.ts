@@ -1,6 +1,6 @@
 export const AppConfig = {
-  site_name: 'React landing page',
-  title: 'React landing page template 2021',
-  description: 'Production ready plug n play landing page!',
+  site_name: 'Service of Chef in home',
+  title: 'Aracelli Chef Services for Home',
+  description: 'Service of professional chef for Home',
   locale: 'en',
 };
